@@ -1,8 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=fidjiw&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=fidjiw&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />     
 
-## I'm xfeng
--  Wuyi university
--  [xfeng.fun](xfeng.fun) 
--  [《Go语言编程之旅：一起用Go做项目》](https://u.jd.com/RMSbOS)合著者. 
--  开源图书：[《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example). 
--  GCTT、golangweekly 等仓库发起人.- 公众号：polarisxu<img src="https://github-profile-trophy.vercel.app/?username=fidjiw&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
+### I'm xfeng
+-  对代码和网络安全感兴趣
+-  目前在学GO
+-  正在尝试写作和记录，这是我的[个人博客](xfeng.fun)
+-  <img src="https://github-profile-trophy.vercel.app/?username=fidjiw&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
